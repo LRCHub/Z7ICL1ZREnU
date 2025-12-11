@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOGE (Slowed Down)",
+  "base_artist": "AKASAKI",
+  "createdAt": "2025-12-11T13:44:26.277552Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOGE Slowed Down",
+      "artist": "AKASAKI",
+      "has_synced": false,
+      "path": "select/pl_01_TOGE_Slowed_Down_AKASAKI.txt"
+    }
+  ]
+}
